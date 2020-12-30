@@ -5,7 +5,7 @@
 🔭 Atualmente estou focado em criar meu website para mostra os projetos que ando fazendo.
 
 <p align="left">
-  🦄 Linguagens e Framewokrs: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens e Framewokrs: <strong>Linguagens que domino e/ou estou aprendendo estarão aqui</strong>
 </p>
 
 <code><img height="37" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/c-sharp.png" alt="CSharp"/></code>
@@ -17,7 +17,7 @@
 <code><img height="42" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/sql.png" alt="SQLServer"/></code>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>Todas as ferramentas que utilizo no meu dia a dia para criar meus projetos.</strong>
 </p>
 
 <code><img height="32" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/visual-studio-code.png" alt="VSCode"/></code>
