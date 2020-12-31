@@ -1,4 +1,4 @@
-## <h1>👨‍💻 Olá, seja bem vindo!</strong></h1>
+## <h2>👨‍💻 Olá, seja bem vindo!</strong></h2>
 
 <img src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/BannerGuiDev.png" min-width="900px" max-width="900px" width="900px" align="center" alt="Banner Readme Gui">
 
