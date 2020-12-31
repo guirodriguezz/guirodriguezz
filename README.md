@@ -56,6 +56,6 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-[![guirodriguezz](https://github-readme-stats.vercel.app/api?username=guirodriguezz&theme=highcontrast)](https://github.com/guirodriguezz/)
+[![guirodriguezz](https://github-readme-stats.vercel.app/api?username=guirodriguezz&theme=tokyonight)](https://github.com/guirodriguezz/)
 
-[![guirodriguezz](https://github-readme-stats.vercel.app/api/top-langs/?username=guirodriguezz&hide=html&layout=compact&theme=highcontrast)](https://github.com/guirodriguezz/)
+[![guirodriguezz](https://github-readme-stats.vercel.app/api/top-langs/?username=guirodriguezz&hide=html&layout=compact&theme=tokyonight)](https://github.com/guirodriguezz/)
