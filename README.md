@@ -23,9 +23,11 @@
   💼 Ferramentas: <strong>Todas as ferramentas que utilizo no meu dia a dia para criar meus projetos.</strong>
 </p>
 
-<code><img height="32" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/visual-studio-code.png" alt="VSCode"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/adobe-xd.png" alt="AdobeXD"/></code>
+<p align="left">
+<img height="32" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/visual-studio-code.png" alt="VSCode"/>
+<img height="40" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/git.png" alt="Git"/>
+<img height="32" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/adobe-xd.png" alt="AdobeXD"/>
+</p>
 
 ----
 
