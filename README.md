@@ -8,13 +8,14 @@
   🦄 Linguagens e Framewokrs: <strong>Linguagens que domino e/ou estou aprendendo estarão aqui</strong>
 </p>
 
-<code><img height="37" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/c-sharp.png" alt="CSharp"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/microsoft-dotnet.png" alt="dotNet"/></code>
-<code><img height="37" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/xamarin.png" alt="Xamarin"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/html.png" alt="HTML5"/></code>
-<code><img height="37" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/css.png" alt="CSS"/></code>
-<code><img height="42" src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/IconsSkillsTool/sql.png" alt="SQLServer"/></code>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotNet"/>
+<img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 
 <p align="left">
   💼 Ferramentas: <strong>Todas as ferramentas que utilizo no meu dia a dia para criar meus projetos.</strong>
@@ -31,20 +32,25 @@
 </p>
 
 <p align="left">
+   <a href="gui.rodrigues@msn.com" target="_blank" alt="Outlook">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  
   <a href="https://www.linkedin.com/in/guialexandre/" target="_blank" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guialexandre/"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="https://api.whatsapp.com/send?phone=5511943360806&text=Olá,%20Guilherme.%20Encontrei%20seu%20Github." target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511943360806&text=Olá,%20Guilherme.%20Encontrei%20seu%20Github."/></a>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
   <a href="https://www.facebook.com/GuilhermeRT" target="_blank" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/GuilhermeRT"/></a>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
   <a href="https://www.instagram.com/guilherme2408/" target="_blank" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme2408/"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>  
 
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guirodriguezz&show_icons=true)
+[![guirodriguezz](https://github-readme-stats.vercel.app/api?username=guirodriguezz&theme=highcontrast)](https://github.com/guirodriguezz/)
+
+[![guirodriguezz](https://github-readme-stats.vercel.app/api/top-langs/?username=guirodriguezz&hide=html&layout=compact&theme=highcontrast)](https://github.com/guirodriguezz/)
