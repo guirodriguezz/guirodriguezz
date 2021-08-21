@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/guirodriguezz/guirodriguezz/main/BannerGuiDev.png" min-width="900px" max-width="900px" width="900px" align="center" alt="Banner Readme Gui">
 
-🔭 Atualmente estou focado em criar meu website para mostra os projetos que ando fazendo.
+🔭 Atualmente estou focado em criar meu website para mostrar os projetos que ando fazendo.
 
 <p align="left">
   🦄 Linguagens e Framewokrs: <strong>Linguagens que domino e/ou estou aprendendo estarão aqui</strong>
